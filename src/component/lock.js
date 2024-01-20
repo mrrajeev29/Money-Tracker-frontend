@@ -23,7 +23,7 @@ function check(){
     if(p==="RR299")
     {
         //alert(p);
-        window.open("https://money-tracker-frontend-dun.vercel.app/","_self")
+        window.open("https://money-tracker-frontend-dun.vercel.app/sub","_self")
     }
     else
     {
